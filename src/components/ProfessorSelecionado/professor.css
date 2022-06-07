@@ -1,0 +1,29 @@
+.professor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    gap: 20px;
+    border-radius: 10px;
+    width: 100%;
+    box-shadow: var(--boxShadow);
+}
+
+.professor__img {
+    width: 80%;
+    border-radius: 100%;
+    border: 8px solid #eee;
+}
+
+.professor__nome {
+    line-height: 1;
+}
+
+.nome1 {
+    font-weight: 800;
+}
+
+.nom2 {}

@@ -1,0 +1,42 @@
+.navBar {
+    background-color: black;
+    position: absolute;
+    top: 0;
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 100px;
+}
+
+.navBar ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    height: 100%;
+    gap: 30px;
+}
+
+.navBar ul li {
+    list-style: none;
+    opacity: .8;
+    transition: all .3s ease;
+}
+
+.navBar ul li:hover {
+    opacity: 1;
+}
+
+.navBar a {
+    color: white;
+    color: white;
+    font-size: .7em;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 400px) {
+    .navBar {
+        width: 80%;
+    }
+}
+
