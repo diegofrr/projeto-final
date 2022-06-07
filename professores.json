@@ -2,21 +2,24 @@
 
   {
     "id": 1,
-    "nome": "João Francisco",
+    "primeiroNome": "João",
+    "segundoNome": "Franscisco",
     "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpNgmIJwrxrYuu7aZ30ribybS673swRQKaw&usqp=CAU",
     "avaliacoes": {"likes": 11, "deslikes": 38}
   },
   
   {
     "id": 2,
-    "nome": "Manoel Silva",
+    "primeiroNome": "Manoel", 
+    "segundoNome": "Silva",
     "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpNgmIJwrxrYuu7aZ30ribybS673swRQKaw&usqp=CAU",
     "avaliacoes": {"likes": 66, "deslikes": 2}
   },
   
   {
     "id": 3,
-    "nome": "Maria Cristina",
+    "primeiroNome": "Maria", 
+    "segundoNome": "Cristina",
     "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpNgmIJwrxrYuu7aZ30ribybS673swRQKaw&usqp=CAU",
     "avaliacoes": {"likes": 104, "deslikes": 11}
   }
