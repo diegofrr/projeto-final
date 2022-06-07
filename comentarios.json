@@ -2,19 +2,19 @@
 
   {
     "id": 1,
-    "hora": 12:02,
+    "hora": "12:02",
     "texto": "Lorem Ipsum is simply dummy text of the printing andtypesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when"
   },
   
   {
     "id": 2,
-    "hora": 00:27,
+    "hora": "00:27",
     "texto": "Lorem Ipsum is simply dummy text of the printing andtypesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when"
   },
   
   {
     "id": 3,
-    "hora": 06:32,
+    "hora": "06:32",
     "texto": "Lorem Ipsum is simply dummy text of the printing andtypesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when"
   },
 ]
