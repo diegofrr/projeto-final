@@ -5,6 +5,23 @@
     "primeiroNome": "Fernando", 
     "segundoNome": "Ribamar",
     "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrQvkGzg0KzPTE2Mt9Zo_Sn9TUot81jzy0Q&usqp=CAU",
-    "avaliacoes": {"likes": 22, "deslikes": 94}
+    "avaliacoes": {"likes": 22, "deslikes": 94},
+    "comentarios": [{
+        "id": 1,
+        "hora": "12:02",
+        "texto": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old"
+      },
+      {
+        "id": 2,
+        "hora": "00:27",
+        "texto": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+      },
+      {
+        "id": 3,
+        "hora": "19:11",
+        "texto": " If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text"
+      }
+           
+      ]
   }
 ]
