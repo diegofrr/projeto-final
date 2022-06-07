@@ -75,7 +75,7 @@ export default function ListaComentarios() {
                 <button onClick={() => addComentario()}>Adicionar</button>
                 <input 
                 value={novoComentario} onInput={e => setNovoComentario(e.target.value)}
-                placeholder='Sua mensagem' type='textarea' maxLength='100'/>
+                placeholder='Seu comentário' type='textarea' maxLength='100'/>
             </div>
             <BotaoAddComentario addComentario={e => toggleModal(e)} />
         </div>
