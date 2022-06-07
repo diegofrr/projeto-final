@@ -20,7 +20,18 @@
         "id": 3,
         "hora": "19:11",
         "texto": " If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text"
-      }
+      },
+                    {
+        "id": 4,
+        "hora": "07:06",
+        "texto": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+      },
+                    
+      {
+        "id": 5,
+        "hora": "08:27",
+        "texto": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+      },
            
       ]
   }
