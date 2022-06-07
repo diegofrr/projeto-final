@@ -4,20 +4,20 @@
     "id": 1,
     "nome": "João Francisco",
     "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpNgmIJwrxrYuu7aZ30ribybS673swRQKaw&usqp=CAU",
-    "avaliacoes": {"likes": 11, "deslikes", 38}
+    "avaliacoes": {"likes": 11, "deslikes: 38}
   },
   
   {
     "id": 2,
     "nome": "Manoel Silva",
     "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpNgmIJwrxrYuu7aZ30ribybS673swRQKaw&usqp=CAU",
-    "avaliacoes": {"likes": 66, "deslikes", 02}
+    "avaliacoes": {"likes": 66, "deslikes": 02}
   },
   
   {
     "id": 3,
     "nome": "Maria Cristina",
     "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpNgmIJwrxrYuu7aZ30ribybS673swRQKaw&usqp=CAU",
-    "avaliacoes": {"likes": 104, "deslikes", 11}
+    "avaliacoes": {"likes": 104, "deslikes": 11}
   }
 ]
