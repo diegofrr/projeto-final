@@ -12,7 +12,7 @@
     "id": 2,
     "primeiroNome": "Manoel", 
     "segundoNome": "Silva",
-    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpNgmIJwrxrYuu7aZ30ribybS673swRQKaw&usqp=CAU",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPe8XbjPk9Q3Qm2rQ1FOwJkEHdkWLZAuyIpg&usqp=CAU",
     "avaliacoes": {"likes": 66, "deslikes": 2}
   },
   
@@ -22,5 +22,29 @@
     "segundoNome": "Cristina",
     "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZERlALX-25J9mzzTt-p3pxjQBZWuzrILrg&usqp=CAU",
     "avaliacoes": {"likes": 104, "deslikes": 11}
+  },
+  
+  {
+    "id": 4,
+    "primeiroNome": "Fernando", 
+    "segundoNome": "Ribamar",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrQvkGzg0KzPTE2Mt9Zo_Sn9TUot81jzy0Q&usqp=CAU",
+    "avaliacoes": {"likes": 22, "deslikes": 94}
+  },
+  
+  {
+    "id": 5,
+    "primeiroNome": "Danilo", 
+    "segundoNome": "Gomes",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUH2zsAw76aA42P7wYEejkeWnqVlwumYlLA&usqp=CAU",
+    "avaliacoes": {"likes": 9, "deslikes": 1}
+  },
+  
+  {
+    "id": 6,
+    "primeiroNome": "Betânica", 
+    "segundoNome": "Silveira",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjjgBeSUmi0rGcw40Hq88zfSOUdOPkyxQ3w&usqp=CAU",
+    "avaliacoes": {"likes": 77, "deslikes": 6}
   }
 ]
