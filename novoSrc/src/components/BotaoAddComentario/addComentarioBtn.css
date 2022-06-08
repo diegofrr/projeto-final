@@ -1,0 +1,24 @@
+.addComentarioBtn {
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 40px;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    border: none;
+    font-size: 1.2em;
+    transition: all .3s ease;
+    box-shadow: 0 0 15px -5px rgb(31, 58, 109);
+    line-height: 0;
+}
+
+.redBg {
+    background-color: red !important;
+}
+
+.addComentarioBtn:hover {
+    background-color: rgb(123, 164, 241);
+}
