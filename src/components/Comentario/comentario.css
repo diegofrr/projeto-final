@@ -1,0 +1,22 @@
+.comentario-content {
+    background-color: #fafafa;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #eee;
+    width: 100%;
+}
+
+.comentario__hora {
+    color: #123456;
+    font-weight: 800;
+    font-size: .7em;
+    display: inline-block;
+    margin-bottom: 10px;
+    user-select: none;
+    opacity: .4;
+}
+
+.comentario__texto {
+    color: #123456;
+    font-size: .9em;
+}
